@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nama_kendaraan": "Mitsubishi L300",
+    "tipe_kendaraan": "Pickup",
+    "alamat": "Jakarta Timur",
+    "harga_per_km": 7000,
+    "photo": "https://th.bing.com/th/id/OIP.r1zfLYQeUnp7prEYbxc-lwHaFj?rs=1&pid=ImgDetMain",
+    "rating": 4.8,
+    "review": 120,
+    "testimoni": [
+      "https://th.bing.com/th/id/OIP.CEsXjDq58ts4ER4fjU1FRgHaEK?rs=1&pid=ImgDetMain",
+      "https://example.com/testimoni/testi2.jpg"
+    ],
+    "whatsapp": "6281234567890"
+  },
+  {
+    "id": 2,
+    "nama_kendaraan": "Suzuki Carry",
+    "tipe_kendaraan": "Mobil Box",
+    "alamat": "Depok, Jawa Barat",
+    "harga_per_km": 8500,
+    "photo": "https://th.bing.com/th/id/R.db880ecc9cd46e2a0aee323457842bb5?rik=7G8nLkC%2bvcVpww&riu=http%3a%2f%2fimages.summitmedia-digital.com%2ftopgear%2fimages%2f2019%2f04%2f26%2fsuzuki-carry-main-1556254951.jpg&ehk=ypGtOG86jwBadqELzhqdUkDlK2cIlHru50jw2Pd%2bN4U%3d&risl=&pid=ImgRaw&r=0",
+    "rating": 4.6,
+    "review": 98,
+    "testimoni": [
+      "https://example.com/testimoni/testi3.jpg",
+      "https://example.com/testimoni/testi4.jpg"
+    ],
+    "whatsapp": "6285798765432"
+  },
+  {
+    "id": 3,
+    "nama_kendaraan": "Daihatsu Grandmax",
+    "tipe_kendaraan": "Pickup Tertutup",
+    "alamat": "Bekasi",
+    "harga_per_km": 7500,
+    "photo": "https://th.bing.com/th/id/OIP.eJg5VynkHpvxvUt6PN3Y0wHaFj?rs=1&pid=ImgDetMain",
+    "rating": 4.9,
+    "review": 134,
+    "testimoni": [
+      "https://example.com/testimoni/testi5.jpg",
+      "https://example.com/testimoni/testi6.jpg"
+    ],
+    "whatsapp": "6281388899900"
+  },
+  {
+    "id": 4,
+    "nama_kendaraan": "Isuzu Traga",
+    "tipe_kendaraan": "Pickup",
+    "alamat": "Bogor",
+    "harga_per_km": 7200,
+    "photo": "https://gambarmobil.com/foto/isuzu/280586-isuzu-traga-pick-up-3-way-3-way.jpg",
+    "rating": 4.5,
+    "review": 87,
+    "testimoni": [
+      "https://example.com/testimoni/testi7.jpg",
+      "https://example.com/testimoni/testi8.jpg"
+    ],
+    "whatsapp": "6285899988877"
+  }
+]
