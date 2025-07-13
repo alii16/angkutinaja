@@ -3,8 +3,8 @@
     "id": 1,
     "nama_kendaraan": "Mitsubishi L300",
     "tipe_kendaraan": "Pickup",
-    "alamat": "Jakarta Timur",
-    "harga_per_km": 7000,
+    "alamat": "Ambon",
+    "harga_per_12_jam": 170000,
     "photo": "https://th.bing.com/th/id/OIP.r1zfLYQeUnp7prEYbxc-lwHaFj?rs=1&pid=ImgDetMain",
     "rating": 4.8,
     "review": 120,
@@ -17,9 +17,9 @@
   {
     "id": 2,
     "nama_kendaraan": "Suzuki Carry",
-    "tipe_kendaraan": "Mobil Box",
-    "alamat": "Depok, Jawa Barat",
-    "harga_per_km": 8500,
+    "tipe_kendaraan": "Pickup",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 180000,
     "photo": "https://th.bing.com/th/id/R.db880ecc9cd46e2a0aee323457842bb5?rik=7G8nLkC%2bvcVpww&riu=http%3a%2f%2fimages.summitmedia-digital.com%2ftopgear%2fimages%2f2019%2f04%2f26%2fsuzuki-carry-main-1556254951.jpg&ehk=ypGtOG86jwBadqELzhqdUkDlK2cIlHru50jw2Pd%2bN4U%3d&risl=&pid=ImgRaw&r=0",
     "rating": 4.6,
     "review": 98,
@@ -33,8 +33,8 @@
     "id": 3,
     "nama_kendaraan": "Daihatsu Grandmax",
     "tipe_kendaraan": "Pickup Tertutup",
-    "alamat": "Bekasi",
-    "harga_per_km": 7500,
+    "alamat": "Ambon",
+    "harga_per_12_jam": 190000,
     "photo": "https://th.bing.com/th/id/OIP.eJg5VynkHpvxvUt6PN3Y0wHaFj?rs=1&pid=ImgDetMain",
     "rating": 4.9,
     "review": 134,
@@ -48,8 +48,8 @@
     "id": 4,
     "nama_kendaraan": "Isuzu Traga",
     "tipe_kendaraan": "Pickup",
-    "alamat": "Bogor",
-    "harga_per_km": 7200,
+    "alamat": "Ambon",
+    "harga_per_12_jam": 190000,
     "photo": "https://gambarmobil.com/foto/isuzu/280586-isuzu-traga-pick-up-3-way-3-way.jpg",
     "rating": 4.5,
     "review": 87,
@@ -58,5 +58,200 @@
       "https://example.com/testimoni/testi8.jpg"
     ],
     "whatsapp": "6285899988877"
+  },
+  {
+    "id": 5,
+    "nama_kendaraan": "Toyota Vios",
+    "tipe_kendaraan": "Sedan",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 210000,
+    "photo": "https://content.toyota.com.ph/uploads/articles/251/003_251_1615361615860_000_1200x630.png",
+    "rating": 4.7,
+    "review": 156,
+    "testimoni": [
+      "https://example.com/testimoni/testi9.jpg",
+      "https://example.com/testimoni/testi10.jpg"
+    ],
+    "whatsapp": "6281234567891"
+  },
+  {
+    "id": 6,
+    "nama_kendaraan": "Honda City",
+    "tipe_kendaraan": "Sedan",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 210000,
+    "photo": "https://dnd.com.pk/wp-content/uploads/2021/07/Honda_City_V_Ext-1-1.jpg",
+    "rating": 4.6,
+    "review": 143,
+    "testimoni": [
+      "https://example.com/testimoni/testi11.jpg",
+      "https://example.com/testimoni/testi12.jpg"
+    ],
+    "whatsapp": "6281234567892"
+  },
+  {
+    "id": 7,
+    "nama_kendaraan": "Nissan Almera",
+    "tipe_kendaraan": "Sedan",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 215000,
+    "photo": "https://tse1.mm.bing.net/th/id/OIP.M_Xp3-dIVnKhywW8yzoVOwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.4,
+    "review": 92,
+    "testimoni": [
+      "https://example.com/testimoni/testi13.jpg",
+      "https://example.com/testimoni/testi14.jpg"
+    ],
+    "whatsapp": "6281234567893"
+  },
+  {
+    "id": 8,
+    "nama_kendaraan": "Hyundai Accent",
+    "tipe_kendaraan": "Sedan",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 190000,
+    "photo": "https://tse2.mm.bing.net/th/id/OIP.UbJaSY7ZAfAoYaDlYIDnzwHaE6?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.5,
+    "review": 78,
+    "testimoni": [
+      "https://example.com/testimoni/testi15.jpg",
+      "https://example.com/testimoni/testi16.jpg"
+    ],
+    "whatsapp": "6281234567894"
+  },
+  {
+    "id": 9,
+    "nama_kendaraan": "Mitsubishi Colt Diesel",
+    "tipe_kendaraan": "Truk",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 220000,
+    "photo": "https://tse2.mm.bing.net/th/id/OIP.xBX0rnFRIC_AQxI0qDK0JQHaFI?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.3,
+    "review": 67,
+    "testimoni": [
+      "https://example.com/testimoni/testi17.jpg",
+      "https://example.com/testimoni/testi18.jpg"
+    ],
+    "whatsapp": "6281234567895"
+  },
+  {
+    "id": 10,
+    "nama_kendaraan": "Hino Dutro",
+    "tipe_kendaraan": "Truk",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 225000,
+    "photo": "https://tse2.mm.bing.net/th/id/OIP.mZ1lAMKr71voIWCx0t_X5AHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.6,
+    "review": 89,
+    "testimoni": [
+      "https://example.com/testimoni/testi19.jpg",
+      "https://example.com/testimoni/testi20.jpg"
+    ],
+    "whatsapp": "6281234567896"
+  },
+  {
+    "id": 11,
+    "nama_kendaraan": "Isuzu ELF",
+    "tipe_kendaraan": "Truk",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 225000,
+    "photo": "https://media.karousell.com/media/photos/products/2020/02/28/isuzu_elf_10ft_dropside_japan_surplus_truck_4hl1_1582880575_509ea25e_progressive.jpg",
+    "rating": 4.7,
+    "review": 112,
+    "testimoni": [
+      "https://example.com/testimoni/testi21.jpg",
+      "https://example.com/testimoni/testi22.jpg"
+    ],
+    "whatsapp": "6281234567897"
+  },
+  {
+    "id": 12,
+    "nama_kendaraan": "Fuso Fighter",
+    "tipe_kendaraan": "Truk",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 240000,
+    "photo": "https://tse4.mm.bing.net/th/id/OIP.W_dSawZ2Qfvh2ANlGJSGMQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.8,
+    "review": 95,
+    "testimoni": [
+      "https://example.com/testimoni/testi23.jpg",
+      "https://example.com/testimoni/testi24.jpg"
+    ],
+    "whatsapp": "6281234567898"
+  },
+  {
+    "id": 13,
+    "nama_kendaraan": "Honda Vario 125",
+    "tipe_kendaraan": "Motor",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 90000,
+    "photo": "https://cloud.jpnn.com/photo/arsip/watermark/2021/04/16/honda-vario-125-dengan-warna-spesial-foto-dok-ahm-50.jpg",
+    "rating": 4.5,
+    "review": 234,
+    "testimoni": [
+      "https://example.com/testimoni/testi25.jpg",
+      "https://example.com/testimoni/testi26.jpg"
+    ],
+    "whatsapp": "6281234567899"
+  },
+  {
+    "id": 14,
+    "nama_kendaraan": "Yamaha NMAX",
+    "tipe_kendaraan": "Motor",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 110000,
+    "photo": "https://tse1.mm.bing.net/th/id/OIP.fxWgpFQe9c4TB4zPld1ZBAHaFy?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.6,
+    "review": 187,
+    "testimoni": [
+      "https://example.com/testimoni/testi27.jpg",
+      "https://example.com/testimoni/testi28.jpg"
+    ],
+    "whatsapp": "6281234567800"
+  },
+  {
+    "id": 15,
+    "nama_kendaraan": "Suzuki Satria FU",
+    "tipe_kendaraan": "Motor",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 95000,
+    "photo": "https://imgcdn.oto.com/large/gallery/color/92/1200/suzuki-satria-f150-color-744491.jpg",
+    "rating": 4.4,
+    "review": 156,
+    "testimoni": [
+      "https://example.com/testimoni/testi29.jpg",
+      "https://example.com/testimoni/testi30.jpg"
+    ],
+    "whatsapp": "6281234567801"
+  },
+  {
+    "id": 16,
+    "nama_kendaraan": "Kawasaki Ninja 250",
+    "tipe_kendaraan": "Motor",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 130000,
+    "photo": "https://tse1.mm.bing.net/th/id/OIP.6Wfax9OIARUJeVdDUsWOEwHaFK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.7,
+    "review": 98,
+    "testimoni": [
+      "https://example.com/testimoni/testi31.jpg",
+      "https://example.com/testimoni/testi32.jpg"
+    ],
+    "whatsapp": "6281234567802"
+  },
+  {
+    "id": 17,
+    "nama_kendaraan": "Honda PCX",
+    "tipe_kendaraan": "Motor",
+    "alamat": "Ambon",
+    "harga_per_12_jam": 110000,
+    "photo": "https://tse3.mm.bing.net/th/id/OIP.UQP6PnDmGkFnrl-ojOHSlQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "rating": 4.8,
+    "review": 201,
+    "testimoni": [
+      "https://example.com/testimoni/testi33.jpg",
+      "https://example.com/testimoni/testi34.jpg"
+    ],
+    "whatsapp": "6281234567803"
   }
 ]
